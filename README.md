@@ -19,26 +19,26 @@ The Titanic dataset provides a range of features about passengers, including age
 ## :file_folder:Dataset
 The dataset is sourced from Kaggle's Titanic Survival Challenge. It contains the following key features:
 
-<b>PassengerId:</b> Unique ID for each passenger
-<b>Pclass:</b> Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
-<b>Name:</b> Name of the passenger
-<b>Sex:</b> Gender of the passenger
-<b>Age:</b> Age of the passenger
-<b>SibSp:</b> Number of siblings/spouses aboard
-<b>Parch:</b> Number of parents/children aboard
-<b>Ticket:</b> Ticket number
-<b>Fare:</b> Passenger fare
-<b>Cabin:</b> Cabin number
-<b>Embarked:</b> Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+<b>PassengerId:</b> Unique ID for each passenger<br>
+<b>Pclass:</b> Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)<br>
+<b>Name:</b> Name of the passenger<br>
+<b>Sex:</b> Gender of the passenger<br>
+<b>Age:</b> Age of the passenger<br>
+<b>SibSp:</b> Number of siblings/spouses aboard<br>
+<b>Parch:</b> Number of parents/children aboard<br>
+<b>Ticket:</b> Ticket number<br>
+<b>Fare:</b> Passenger fare<br>
+<b>Cabin:</b> Cabin number<br>
+<b>Embarked:</b> Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)<br>
 
 ## :robot:Model
 The Logistic Regression model was chosen due to its simplicity and effectiveness for binary classification tasks. With this approach, we achieved an 84% accuracy score on the validation set.
 
 ## :hammer_and_wrench:Key Steps in the Workflow:
-<b>Data Preprocessing:</b> Handling missing values, encoding categorical variables, and scaling.
-<b>Feature Engineering:</b> Creating new features and selecting the most impactful ones for prediction.
-<b>Model Training:</b> Training the Logistic Regression model on the preprocessed data.
-</b>Evaluation:</b> Evaluating the model performance with accuracy metrics.
+<b>Data Preprocessing:</b> Handling missing values, encoding categorical variables, and scaling.<br>
+<b>Feature Engineering:</b> Creating new features and selecting the most impactful ones for prediction.<br>
+<b>Model Training:</b> Training the Logistic Regression model on the preprocessed data.<br>
+</b>Evaluation:</b> Evaluating the model performance with accuracy metrics.<br>
 
 ## :inbox_tray:Installation
 Clone the repository:
