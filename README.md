@@ -43,7 +43,7 @@ The Logistic Regression model was chosen due to its simplicity and effectiveness
 ## :inbox_tray:Installation
 Clone the repository:
 ```bash
-git clone <https://github.com/AshokKumar2525/kaggle-competition-Titanic.git>
+git clone <https://github.com/AshokKumar2525/kaggle-competition-Titanic-Survival.git>
 ```
 ## Install the necessary packages:
 ```python
